@@ -16,10 +16,8 @@ Run `yarn install` to add all dependencies
 ## CONFIGURATION
 
 
--Weights 
-Weights for the different layers can be configured in the *config.js* file
+- Weights: Weights for the different layers can be configured in the *config.js* file
 
-- IPFS upload 
-IPFS upload is enabled by setting  `uploadFile = true;` in *config.js*
+- IPFS upload: IPFS upload is enabled by setting  `uploadFile = true;` in *config.js*
 
 
